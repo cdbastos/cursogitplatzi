@@ -3,3 +3,7 @@ Hola, esta es mi vida
 Hablaremos de su vida y obra maestra
 
 Soy Ingeniero en Sistemas de la UNAD graduado en el 2020.
+
+Actualmente trabajo en el ISER Pamplona.
+
+Y soy desarrollador php, .net
