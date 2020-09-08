@@ -6,4 +6,6 @@ Soy Ingeniero en Sistemas de la UNAD graduado en el 2020.
 
 Actualmente trabajo en el ISER Pamplona.
 
-Y soy desarrollador php, .net
+Y soy desarrollador php, .net 
+
+Soporte MTIC es un usuario para gestion de la mesa de ayuda del instituto ISER.
